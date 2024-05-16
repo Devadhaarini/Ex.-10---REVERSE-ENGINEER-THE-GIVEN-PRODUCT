@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.no. - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Devadhaarini/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145796552/e8aff1e0-815d-44a9-8bbf-28f77d4a88b5)
 
 ### Output:
+![image](https://github.com/Devadhaarini/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145796552/d72aa7f8-af49-4b0c-acaa-1d9b84c43351)
 
-
-### Name:
-### Register Number:
+### Name: DEVADHAARINI.D
+### Register Number: 212223230040
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
